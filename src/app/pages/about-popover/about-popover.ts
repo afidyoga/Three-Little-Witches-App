@@ -29,7 +29,7 @@ export class PopoverPage {
   public urlHome = "https://linktr.ee/afid_yoga";
   public urlContact =
     "https://www.linkedin.com/in/mohamad-afid-yoga-pratama-putra-a446271a6?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bf4uQN5PSQ7qsZzvMonYZjQ%3D%3D";
-  public urlGithub = "https://github.com/afidyoga/Three-Little-Witches-App";
+  public urlGithub = "https://github.com/afidyoga/Three-Little-Witches-News-App";
 
   async openContactForm() {
     await this.router.navigate(["app/tabs/contact"]);
