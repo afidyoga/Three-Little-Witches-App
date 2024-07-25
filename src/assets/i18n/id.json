@@ -1,0 +1,52 @@
+{
+  "MENU": {
+    "title": "Menu",
+    "Nav-header": "Navigasi",
+    "Nav-settings": "Pengaturan",
+    "Label-language": "Bahasa",
+    "LangOption-English": "EN",
+    "LangOption-Spanish": "SP",
+    "LangOption-French": "FR",
+    "LangOption-Indonesian": "ID",
+    "Label-darkMode": "Mode Gelap",
+    "page-title": ""
+  },
+  "NEWS": {
+    "cancel": "Batal"
+  },
+  "NEWS-DETAIL": {
+    "title": "Berita dari: ",
+    "author": "Penulis",
+    "visit": "Kunjungi situs web",
+    "add-favourite": "Tambah ke Favorit",
+    "remove-favourite": "Hapus Artikel"
+  },
+  "CATEGORIES": {
+    "cancel": "Batal"
+  },
+  "FAVOURITES": {
+    "photo-credit": "Foto oleh CapDfrawy di Unsplash",
+    "notice": "Tidak ada artikel di Favorit"
+  },
+  "PROGRESS_BAR": {
+    "title": "Memuat berita..."
+  },
+  "ABOUT": {
+    "card-title": "Three Little Witches Team",
+    "photo-credit": "Foto oleh Amikom. di Wikipedia",
+    "para1-part1": "Aplikasi ini dari tugas UAS mata kuliah Hybrid Web Development dari ",
+    "para1-part2": "Kami menggunakan API REST HTTP untuk mengumpulkan artikel dari berbagai sumber dan blog berita di seluruh dunia.",
+    "para2": "Artikel dapat diakses dalam berbagai kategori seperti umum, teknologi, bisnis, hiburan, kesehatan, sains, dan olahraga.",
+    "para3": "Setiap artikel dilengkapi dengan tautan ke sumber berita asli yang akan terbuka di jendela baru.",
+    "para4": "Nama Anggota Kelompok:",
+    "para5": "1.Mohamad Afid Yoga Pratama Putra ( 22.01.4846 )",
+    "para6": "2.Yohanes Chris Maruli Sinaga ( 22.01.4826 )",
+    "para7": "3. Aroyo Bintang Wiliantoro ( 22.01.4794 )"
+  },
+  "TASK-BAR": {
+    "news": "Berita",
+    "categories": "Kategori",
+    "favourites": "Favorit",
+    "about": "Tentang"
+  }
+}

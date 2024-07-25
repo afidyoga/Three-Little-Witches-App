@@ -1,0 +1,49 @@
+{
+	"MENU": {
+		"title": "Menu",
+		"Nav-header": "Naviguer",
+		"Nav-settings": "Reglage",
+		"Label-language": "Langage",
+		"LangOption-English": "AN",
+		"LangOption-Spanish": "ES",
+		"LangOption-French": "FR",
+		"Label-darkMode": "mode-sombre"
+	},
+	"NEWS": {
+		"title": "Nouvelles",
+		"source": "source",
+		"cancel": "annuler"
+	},
+	"NEWS-DETAIL": {
+		"title": "Nouvelles de: ",
+		"author": "Auteur",
+		"visit": "Visiter site",
+		"add-favourite": "Ajouter Favori",
+		"remove-favourite": "Retirer Favori"
+	},
+	"FAVOURITES": {
+		"photo-credit": "Photo par CapDfrawy sur Unsplash",
+		"notice": "Il n'y a pas d'articles dans les Favoris"
+	},
+	"PROGRESS_BAR": {
+		"title": "Chargement des nouvelles..."
+	},
+	"ABOUT": {
+    "card-title": "Équipe des Trois Petites Sorcières",
+    "photo-credit": "Photo par Amikom sur Wikipedia",
+    "para1-part1": "Cette application fait partie du projet final du cours de Développement Web Hybride de ",
+    "para1-part2": "Nous utilisons l'API REST HTTP pour rassembler des articles provenant de diverses sources et blogs d'actualités à travers le monde.",
+    "para2": "Les articles sont accessibles dans différentes catégories telles que général, technologie, affaires, divertissement, santé, science et sports.",
+    "para3": "Chaque article comprend un lien vers la source d'actualités originale qui s'ouvrira dans une nouvelle fenêtre.",
+    "para4": "Membres du Groupe :",
+    "para5": "1.Mohamad Afid Yoga Pratama Putra ( 22.01.4846 )",
+    "para6": "2.Yohanes Chris Maruli Sinaga ( 22.01.4826 )",
+    "para7": "3. Aroyo Bintang Wiliantoro ( 22.01.4794 )"
+  },
+	"TASK-BAR": {
+		"news": "Nouvelles",
+		"categories": "Catégories",
+		"favourites": "Favoris",
+		"about": "À Propos"
+	}
+}

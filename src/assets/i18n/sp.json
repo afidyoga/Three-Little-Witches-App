@@ -1,0 +1,51 @@
+{
+	"MENU": {
+		"title": "Menú",
+		"Nav-header": "Navegar",
+		"Nav-settings": "Ajustes",
+		"Label-language": "Idioma",
+		"LangOption-English": "IN",
+		"LangOption-Spanish": "ES",
+		"LangOption-French": "FR",
+		"Label-darkMode": "Modo Oscuro",
+		"page-title": ""
+	},
+	"NEWS": {
+		"title": "Noticias",
+		"author": "Autor",
+		"source": "Fuente",
+		"cancel": "anular"
+	},
+	"NEWS-DETAIL": {
+		"title": "Noticias de: ",
+		"visit": "Visita pagina",
+		"add-favourite": "Agregar favorito",
+		"remove-favourite": "Quitar Articulo"
+	},
+	"FAVOURITES": {
+		"photo-credit": "Foto de CapDfrawy en Unsplash",
+		"notice": "No hay articulos en favoritos"
+
+	},
+	"PROGRESS_BAR": {
+		"title": "Cargando noticias..."
+	},
+	"ABOUT": {
+    "card-title": "Equipo de Tres Pequeñas Brujas",
+    "photo-credit": "Foto de Amikom en Wikipedia",
+    "para1-part1": "Esta aplicación es parte del proyecto final para el curso de Desarrollo Web Híbrido de ",
+    "para1-part2": "Utilizamos la API REST HTTP para recopilar artículos de diversas fuentes y blogs de noticias de todo el mundo.",
+    "para2": "Los artículos se pueden acceder en varias categorías como general, tecnología, negocios, entretenimiento, salud, ciencia y deportes.",
+    "para3": "Cada artículo incluye un enlace a la fuente original de noticias que se abrirá en una nueva ventana.",
+    "para4": "Miembros del Grupo:",
+    "para5": "1.Mohamad Afid Yoga Pratama Putra ( 22.01.4846 )",
+    "para6": "2.Yohanes Chris Maruli Sinaga ( 22.01.4826 )",
+    "para7": "3. Aroyo Bintang Wiliantoro ( 22.01.4794 )"
+  },
+	"TASK-BAR": {
+		"news": "Noticias",
+		"categories": "Categorias",
+		"favourites": "Favoritos",
+		"about": "Sobre"
+	}
+}
